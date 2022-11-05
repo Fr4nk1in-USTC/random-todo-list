@@ -6,7 +6,7 @@
 
 ## Inspiration
 
-I'm using [Obsidian](https://obsidian.md/) for note taking and task/todo management. However, since I don't take notes very often, I decide to use a separate application to manage my task/todo/timeline. I haven't found a finished application to meet all my expectations, so I would try to make one myself.
+I'm using [Obsidian](https://obsidian.md/) for note taking and task/todo management. However, since I don't take notes very often, I decide to use a separate application to manage my task/todo/timeline. I haven't found a finished application that meet all my expectations, so I would try to make one myself.
 
 ## Expectation
 
