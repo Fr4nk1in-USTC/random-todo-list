@@ -171,7 +171,10 @@ As a todo-list application, it can
 
 ## Project Framework
 
-Tauri? Electron? Native API?
+> WTF is a framwork?
+
+- Cross platform: Tauri? Electron? Qt? .Net?
+- Or specific platform: WinAPI? GTK?
 
 ## TODO
 
